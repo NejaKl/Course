@@ -1,2 +1,2 @@
-# PythonBasicsForDataAnalysts
+# PythonBasicsForDataScience
 
